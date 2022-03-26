@@ -2,7 +2,7 @@
 #include <math.h>
 #include<iostream>
 /******************************************************************************
-Problema 34
+Problema 4
 Determinar si la suma 3^1974 + 3^1974 + 3^1974 es igual a 3^1975  
 Valenzuela Juarez Luis Angel
 @Luis98avjl
